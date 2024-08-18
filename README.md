@@ -1,5 +1,5 @@
 CODSOFT internship 
-Task 1: Calculator
-Task 2: Landing page
-Task 3: Portfolio
+Task 1: Landing page
+Task 2: Portfolio
+Task 3: Calculator
 
